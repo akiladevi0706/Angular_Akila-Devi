@@ -1,0 +1,6 @@
+D:\Projects\Assignment Project\Angular\Angular\bin\Angular.dll.config
+D:\Projects\Assignment Project\Angular\Angular\bin\Angular.dll
+D:\Projects\Assignment Project\Angular\Angular\bin\Angular.pdb
+D:\Projects\Assignment Project\Angular\Angular\obj\Debug\Angular.csprojResolveAssemblyReference.cache
+D:\Projects\Assignment Project\Angular\Angular\obj\Debug\Angular.dll
+D:\Projects\Assignment Project\Angular\Angular\obj\Debug\Angular.pdb
